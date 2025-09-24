@@ -1,0 +1,10 @@
+program 
+    type t : array [2..5,0..10] of int;
+    type x : struct 
+        ch1 : int;
+        ch2 : float
+    fstruct;
+begin
+    vide;
+    vide;
+end 

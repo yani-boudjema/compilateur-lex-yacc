@@ -1,0 +1,7 @@
+program
+var n : int;
+begin
+	write("zeb", a, b);
+    n = 2;
+    
+end 

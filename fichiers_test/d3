@@ -1,0 +1,39 @@
+program
+    var x : int;
+    procedure p1(x:float; y:float) 
+    begin 
+        vide;
+    end; /* fin de la procedure p1 */
+    procedure p2(a:int; b:int) 
+        type x : struct ch1 : int ; ch2 : int fstruct ;
+        var s : x ;
+        procedure p3(c : int)
+            function x(c : float) return int 
+                var a : float;
+            begin 
+                vide;
+            end; /* fin de la fonction x */
+            procedure g(x : bool)
+                var c : int ;
+            begin 
+                vide;
+            end; /* fin de la procedure g */
+        begin
+            vide; 
+        end; /* fin de la procedure p3 */
+        procedure p4() 
+            var x : x ; var c : char;
+        begin 
+            vide;
+        end; /* fin de la procedure p4 */
+    begin 
+        vide;
+    end; /* fin de la procedure p2 */
+    procedure p5(a:int; c:int)
+        var x: float;
+    begin 
+        vide;
+    end; /* fin de la procedure p5 */
+begin 
+    vide;
+end /* fin du programme principal */

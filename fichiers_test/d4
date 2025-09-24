@@ -1,0 +1,23 @@
+program
+    var x : int;
+    var b : bool;
+begin 
+    x = 2;
+    vide;
+    x = x + 1;
+    x = 5 + 7 - 8;
+    x = (x * 4) % 7 /10;
+    b = true;
+    b = !true;
+    b = true && false;
+    b = !b && true;
+    b = (x > 0) && (!(x >= 10));
+    b = !(true);
+    b = (x < (50 % 2));
+    b = !(x == 5);
+    b = x<>5;
+    b = true || true && true;
+    b = true || (4 < (5 + 1)) && (!true);
+    b = ((x * 2) > 10) && (x <= 3);
+    b = (x + 5) <= (y - 2);
+end 

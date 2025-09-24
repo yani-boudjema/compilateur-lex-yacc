@@ -1,0 +1,12 @@
+program
+    var n : int;
+    var x : int;
+    var b : bool;
+begin 
+    n = 6;
+    if ((a == b) || (x == 3+1) && c < 3)
+    then 
+    begin 
+        n = n+1;
+    end;
+end 

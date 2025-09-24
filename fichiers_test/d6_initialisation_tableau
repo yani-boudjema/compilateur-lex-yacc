@@ -1,0 +1,30 @@
+program 
+    var i : int;
+    type t : array[0..10] of int;
+    var b : bool;
+    var tab : t;
+begin 
+    i = 0;
+    
+    /* Initialise le tableau a 0 */
+    while (i <= 10) do 
+    begin 
+        tab[i] = 0;
+    end; 
+
+    /* On verifie que la variable i de parcours i */
+    /* a bien parcourru tout le tableau t         */
+
+    if ((i - 1) == 10) then
+    begin
+        b = true;
+    end;
+
+    if ((i - 1) == 10) then
+    begin
+        b = true;
+    end else 
+    begin
+        b = false;
+    end;
+end 
